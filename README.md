@@ -2,4 +2,4 @@
 
 ## New feature branch
 
-My new branch for cool features
+My new branch for not so cool features
